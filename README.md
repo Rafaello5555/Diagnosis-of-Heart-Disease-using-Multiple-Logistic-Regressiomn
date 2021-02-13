@@ -1,2 +1,4 @@
 # Diagnosis-of-Heart-Disease-using-Multiple-Logistic-Regression
-Using several data mining techniques to help health care professionals in the diagnosis of heart disease.
+Heart disease is the leading cause of death in all around the world . Used several data mining techniques to help health care professionals in the diagnosis of heart disease. In this analyzed data, I have used multiple logistic regression to predict heart disease based on the important predictors such as maximum heart rate, sex and age. Used this model which is developed to predict a person's likelihood of having heart disease given his/her age, sex, and maximum heart rate. Translated the predicted probability into a decision rule for clinical use by defining a cutoff value on the probability scale. When an individual comes in for a health check-up, the doctor would like to know the predicted probability of heart disease. Created a newdata data frame to save a new case information .
+
+Used some common metrics to evaluate the model performance such as accuracy, confusion matrix, AUC, classification error rate. I got predicted accuracy is 70 % which is better
