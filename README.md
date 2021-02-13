@@ -1,2 +1,2 @@
-# Diagnosis-of-Heart-Disease-using-Multiple-Logistic-Regressiomn
+# Diagnosis-of-Heart-Disease-using-Multiple-Logistic-Regression
 Using several data mining techniques to help health care professionals in the diagnosis of heart disease.
